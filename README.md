@@ -28,6 +28,7 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 
 
 ## FLOW CHART
+
 <img width="707" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
 
 
@@ -199,6 +200,7 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
 <img width="634" height="409" alt="Screenshot 2025-09-12 093330" src="https://github.com/user-attachments/assets/9e41dc6d-537f-470c-9c6d-107b5249bbe3" />
 
 
@@ -211,6 +213,7 @@ END
 3. Store result.
 
    ## FLOWCHART
+   
 <img width="1065" height="802" alt="image" src="https://github.com/user-attachments/assets/25b4a483-0d42-494b-8639-1af3ea17191b" />
 
 
