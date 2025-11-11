@@ -25,12 +25,9 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 6. Add value in memory with accumulator.
 7. Store result.
 8. Stop.
-
-
+9. 
 ## FLOW CHART
-
 <img width="707" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
-
 
 #### Program
 
@@ -77,13 +74,11 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-
 <img width="627" height="413" alt="Screenshot 2025-09-12 085908" src="https://github.com/user-attachments/assets/93f834a7-3c51-4548-97a5-3c6bb5a1ad2d" />
 
 ## 2. SUBTRACTION
 
 #### Algorithm
-
 1. Initialize memory and store 1st data.
 2. Increment to get 2nd data.
 3. Move 2nd data to accumulator.
@@ -91,7 +86,6 @@ END
 5. Store result.
 
 ## FLOWCHART
-
 <img width="578" height="797" alt="image" src="https://github.com/user-attachments/assets/564c3c7a-33ce-4a1c-8920-beb5c24b9b47" />
 
 
@@ -134,7 +128,6 @@ END
 |  2006                   |   34                     |
 
 #### Manual Calculations
-
 ![WhatsApp Image 2025-09-22 at 09 08 56](https://github.com/user-attachments/assets/7b09e63b-8815-4ff5-925f-7ae7d39097d9)
 
 
@@ -152,10 +145,7 @@ END
 4. Store result.
 
 ##FLOWCHART
-
 <img width="569" height="906" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
-
-
 
 #### Program
 
@@ -193,32 +183,25 @@ END
 |  2006                   |   34                     |
 
 #### Manual Calculations
-
 ![WhatsApp Image 2025-09-22 at 09 08 56 (1)](https://github.com/user-attachments/assets/96494372-5fae-49b7-ac35-7c7b3a6d19d4)
 
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-
 <img width="634" height="409" alt="Screenshot 2025-09-12 093330" src="https://github.com/user-attachments/assets/9e41dc6d-537f-470c-9c6d-107b5249bbe3" />
 
-
 ## 4. DIVISION
-
 #### Algorithm
 
 1. Load memory location of operands.
 2. Perform division.
 3. Store result.
 
-   ## FLOWCHART
-   
+## FLOWCHART
 <img width="1065" height="802" alt="image" src="https://github.com/user-attachments/assets/25b4a483-0d42-494b-8639-1af3ea17191b" />
 
-
 #### Program
-
 ```asm
 CODE SEGMENT
 ASSUME CS: CODE, DS: CODE
@@ -253,15 +236,11 @@ END
 |  2006                   |   02                     |
 
 #### Manual Calculations
-
 ![WhatsApp Image 2025-09-22 at 09 08 57](https://github.com/user-attachments/assets/f3c14140-809f-47e0-bd3c-ebd8255e2937)
-
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
-
 <img width="644" height="440" alt="Screenshot 2025-09-22 090922" src="https://github.com/user-attachments/assets/c9138179-86a8-43f3-8373-2559498bfe5d" />
-
 
 ## RESULT
 
