@@ -25,7 +25,6 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 6. Add value in memory with accumulator.
 7. Store result.
 8. Stop.
-9. 
 ## FLOW CHART
 <img width="707" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
 
